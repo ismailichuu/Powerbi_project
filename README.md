@@ -9,6 +9,7 @@ COVID-19, also called coronavirus disease 2019, is an illness caused by a virus.
 ### [Covid19-Dasboard](Covid19-Dashboard.pbit)
 This Powerbi file visualizing and tracking all over the copuntry data. It shows global totals and a breakdown by Continent. This dashboard including Total Deaths, Total Cases, Total Recovered, etc. This dashboard also includes a section that shows the new cases, deaths, and recovered cases by day. The map section shows the spread of COVID-19 around the world.
 <br>
+<br>
 ![](2GU.gif)
 <br>
 ***Enjoy it....***
